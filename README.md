@@ -1,4 +1,4 @@
-# Hi, I'm Nartquio 👋
+# Hi, I'm Narquio 👋
 
 Full Stack Developer specializing in backend APIs with **NestJS & TypeScript**
 and modern frontends with **React / Next.js**.
